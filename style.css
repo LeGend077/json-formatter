@@ -20,7 +20,7 @@ body{
     color: #f1f1f1;
 }
 
-button#parse{
+button#format{
     padding: 15px 20px;
     font-size: large;
     background: #f2f2f2;
@@ -28,7 +28,7 @@ button#parse{
     border-radius: 5px;
     cursor: pointer;
 }
-button#parse:hover{
+button#format:hover{
     animation: myAnim 2.5s infinite;
 }
 @keyframes myAnim {
